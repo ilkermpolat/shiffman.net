@@ -15,5 +15,4 @@ markdown: kramdown
 exclude: 
   - archived
   - shiffmanv2
-  command:
-  "jekyll build"
+  
